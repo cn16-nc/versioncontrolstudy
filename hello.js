@@ -10,3 +10,6 @@ var Greeter = /** @class */ (function () {
 }());
 var greeter = new Greeter();
 console.log(greeter.greet());
+heloooooo
+hiiii
+chandana
